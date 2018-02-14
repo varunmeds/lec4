@@ -1,1 +1,2 @@
+Add more cats.
 I'm just trying out git. I'm trying to fix the merge problem.
